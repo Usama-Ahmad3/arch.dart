@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579436919360",
+    "project_id": "digital-river-374608",
+    "storage_bucket": "digital-river-374608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579436919360:android:c5f964ef12e05541b1bda5",
+        "android_client_info": {
+          "package_name": "com.Keybotix.docter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579436919360-jf5scu1gg4hl66ljdgcd20ribb9toee0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMGm9ei3thHE-8SU1Mu7TE0YoExvhoVDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579436919360-jf5scu1gg4hl66ljdgcd20ribb9toee0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
